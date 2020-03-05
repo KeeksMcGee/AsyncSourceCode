@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AsyncSourceCode</string>
+    <string name="enter_url_text">Enter URL:</string>
+    <string name="button_text">GET PAGE SOURCE</string>
+    <string name="page_source_text">Page source will appear here</string>
+    <string name="http_example_text">www.example.com</string>
+    <string name="loading">Loading source code</string>
+    <string name="no_response">No Response</string>
+    <string name="no_url">No URL entered</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="no_connection">No Connection</string>
+
+    <array name="https_array">
+        <item name="http">http://</item>
+        <item name="https">https://</item>
+    </array>
+</resources>
